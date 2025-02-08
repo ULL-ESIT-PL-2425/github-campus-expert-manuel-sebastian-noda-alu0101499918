@@ -19,4 +19,4 @@
 
 ## Solicitar el GitHub Backpack
 
-![github backpack](docs/backpack.png)
+![github backpack](docs/developerpack.png)
